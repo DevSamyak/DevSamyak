@@ -20,10 +20,10 @@ I build full-stack apps and low-level systems projects, and I enjoy solving hard
 
 ### 🚀 Featured Projects
 
-**[Multi-threaded DPI Engine](https://github.com/YOUR_USERNAME/DPI_REPO_NAME)** · `C++` `Multithreading` `Networking`
+**[Multi-threaded DPI Engine](https://github.com/DevSamyak/Deep_Packet_Inspection)** · `C++` `Multithreading` `Networking`
 Deep Packet Inspection engine with a producer-consumer pipeline, raw Ethernet/IPv4/TCP/UDP parsing, and TLS SNI / HTTP Host / DNS extraction to classify 15+ applications. Features 5-tuple flow affinity and rule-based traffic filtering with PCAP I/O.
 
-**[Echo: Music Streaming App](https://github.com/YOUR_USERNAME/ECHO_REPO_NAME)** · `Flutter` `Riverpod` `FastAPI` `PostgreSQL`
+**[Echo: Music Streaming App](https://github.com/DevSamyak/ECHO-App)** · `Flutter` `Riverpod` `FastAPI` `PostgreSQL`
 Cross-platform music app with auth, mood/language discovery, search, uploads, favourites and background playback. Backend uses caching, retries and a circuit breaker for resilience; used by 50+ users.
 
 ---
@@ -38,7 +38,7 @@ Cross-platform music app with auth, mood/language discovery, search, uploads, fa
 
 1000+ problems solved across platforms.
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/tt7TqRvYkU?theme=dark&ext=heatmap)
 
 ---
 
@@ -50,14 +50,15 @@ Cross-platform music app with auth, mood/language discovery, search, uploads, fa
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=DevSamyak&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSamyak&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ### 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](YOUR_CODEFORCES_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samyak-bansod-42b31a293/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](macuser9699@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tt7TqRvYkU/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/samyak_zz)
